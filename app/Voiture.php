@@ -11,3 +11,4 @@ class Voiture extends Model
     	return $this->hasMany('App\Photo');
     }
 }
+huiyiu_uè_èuè_ç
